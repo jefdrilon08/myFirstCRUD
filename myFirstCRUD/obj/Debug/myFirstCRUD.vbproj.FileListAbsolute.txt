@@ -1,0 +1,10 @@
+C:\Users\jeffr\OneDrive\Desktop\workspace\myFirstCRUD\myFirstCRUD\bin\Debug\myFirstCRUD.exe.config
+C:\Users\jeffr\OneDrive\Desktop\workspace\myFirstCRUD\myFirstCRUD\bin\Debug\myFirstCRUD.exe
+C:\Users\jeffr\OneDrive\Desktop\workspace\myFirstCRUD\myFirstCRUD\bin\Debug\myFirstCRUD.pdb
+C:\Users\jeffr\OneDrive\Desktop\workspace\myFirstCRUD\myFirstCRUD\bin\Debug\myFirstCRUD.xml
+C:\Users\jeffr\OneDrive\Desktop\workspace\myFirstCRUD\myFirstCRUD\obj\Debug\myFirstCRUD.Form1.resources
+C:\Users\jeffr\OneDrive\Desktop\workspace\myFirstCRUD\myFirstCRUD\obj\Debug\myFirstCRUD.Resources.resources
+C:\Users\jeffr\OneDrive\Desktop\workspace\myFirstCRUD\myFirstCRUD\obj\Debug\myFirstCRUD.vbproj.GenerateResource.Cache
+C:\Users\jeffr\OneDrive\Desktop\workspace\myFirstCRUD\myFirstCRUD\obj\Debug\myFirstCRUD.exe
+C:\Users\jeffr\OneDrive\Desktop\workspace\myFirstCRUD\myFirstCRUD\obj\Debug\myFirstCRUD.xml
+C:\Users\jeffr\OneDrive\Desktop\workspace\myFirstCRUD\myFirstCRUD\obj\Debug\myFirstCRUD.pdb
